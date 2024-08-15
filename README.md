@@ -56,4 +56,4 @@ This project is a news application developed using React. The app fetches and di
 
 ## Contact
 
-For any questions or issues, please contact [pramodatrepramodatre05@gmail.com ](mailto:pramodatre05@gmail.com).
+For any questions or issues, please contact [pramodatre05@gmail.com ](mailto:pramodatre05@gmail.com).
